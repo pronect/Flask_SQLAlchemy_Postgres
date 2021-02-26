@@ -1,4 +1,4 @@
-aiohttp==3.5.4
+aiohttp==3.7.4
 aiohttp-jinja2==1.1.2
 aiohttpclient==0.0.3
 aiopg==0.16.0
